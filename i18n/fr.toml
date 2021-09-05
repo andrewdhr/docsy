@@ -20,10 +20,10 @@ other = "dans"
 
 # Footer text
 [footer_all_rights_reserved]
-other = "Tous droits résérvés"
+other = ""
 
 [footer_privacy_policy]
-other = "Politique de confidentialité"
+other = "Matériel confidentiel"
 
 
 # Post (blog, articles etc.)
