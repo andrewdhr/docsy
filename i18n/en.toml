@@ -24,7 +24,7 @@ other = "all"
 
 # Footer text
 [footer_all_rights_reserved]
-other = "  | "
+other = " |"
 
 [footer_privacy_policy]
 other = "Confidential"
