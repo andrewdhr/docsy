@@ -19,11 +19,16 @@ other = "Rechercher ce site…"
 other = "dans"
 
 # Footer text
+# Avant de choisir votre modèle, veuillez tenir compte de votre public cible et du niveau de confidentialité de l’information. Voici les quatre versions disponibles :
+# Exclusif - Ce modèle est utilisé pour un public cible à l’interne lorsque l’information, qui n’est pas trop confidentielle, ne causerait pas trop de problèmes à l’entreprise si elle était diffusée à l’externe. Choisissez ce modèle si vous êtes incertain du modèle qui convient le mieux.
+# Confidentiel - Ce modèle est utilisé pour un public cible à l’interne lorsque l’information est particulièrement confidentielle et essentielle à la conduite de nos affaires. La divulgation non autorisée de cette information pourrait avantager nos concurrents.
+# Diffusion restreinte- Ce modèle est utilisé pour un public cible à l’interne lorsque l’information est extrêmement confidentielle. Sa divulgation non autorisée désavantagerait sérieusement l’entreprise sur le plan de la concurrence. Veuillez sélectionner ce modèle si vous traitez de l’information hautement confidentielle.
+# Public - Ce modèle est utilisé pour un public cible externe lorsque l’information a été approuvée pour diffusion au public.
 [footer_all_rights_reserved]
-other = " | "
+other = "Exclusif"
 
 [footer_privacy_policy]
-other = "Matériel confidentiel"
+other = "Politique de confidentialité"
 
 
 # Post (blog, articles etc.)
