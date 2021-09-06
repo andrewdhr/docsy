@@ -23,11 +23,16 @@ other = "in"
 other = "all"
 
 # Footer text
+# Please add one of the following security categories to the footer of your site, as seen below:
+# Proprietary - This is used for an internal audience when the information is not so sensitive that it would cause trouble for the company if viewed externally. Choose this if you are unsure which version is best
+# Confidential - This is used for an internal audience when the information is particularly sensitive and important to the conduct of business, its unauthorized disclosure would be an advantage to our competition.
+# Restricted - This is used for an internal audience when the information is extremely sensitive. This is the highest classification of information, and is used for highly sensitive and critical information. If this information was leaked, it would place the company at a serious competitive disadvantage.
+# Public - This is used for an external audience when the information has been approved for public use.
 [footer_all_rights_reserved]
-other = "|"
+other = "Proprietary"
 
 [footer_privacy_policy]
-other = "Confidential"
+other = "Privacy Policy"
 
 
 # Post (blog, articles etc.)
