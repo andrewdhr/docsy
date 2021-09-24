@@ -6,7 +6,7 @@ This repository, which is a modified version of the **docsy** theme, adapts for 
 
 ## Example and Usage
 
-You can start with an example project that uses this theme in the [TELUS Awesome Team repo](https://github.com/andrewdhr/telus-awesome-team). The **TELUS Awesome Team** project is hosted at [https://andrewdhr.github.io/telus-awesome-team/](https://andrewdhr.github.io/telus-awesome-team/), which is a preview of this theme and contains all the information you need to use this beautiful centralized Web-UI for your team/project at TELUS.
+You can start with an example project that uses this theme in the [TELUS Awesome Team repo](https://github.com/andrewdhr/telus-awesome-team). The **TELUS Awesome Team** project is hosted at [https://andrewdhr.github.io/telus-awesome-team/](https://andrewdhr.github.io/telus-awesome-team/), which is a preview of this theme and contains all the information you need to use this beautiful and content-focused Web-UI for your team or project at TELUS.
 
 ## License ![GitHub](https://img.shields.io/github/license/google/docsy)
 
