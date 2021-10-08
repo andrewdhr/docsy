@@ -2,7 +2,7 @@
 
 The [docsy](https://github.com/google/docsy) project is a [Hugo](https://gohugo.io/) theme for your technical documentation needs, which provides simple navigation, site structure, and more. It is actively maintained by Google Open Source.
 
-This repository, which is a modified version of the oringinal **docsy** theme, adapts for the needs and use cases of internal technical documentation sites at TELUS.
+This repository, which is a modified version of the original **docsy** theme, adapts for the needs and use cases of internal technical documentation sites at TELUS.
 
 ## Example and Usage
 
