@@ -23,5 +23,5 @@ enable = true
 baseName = "index"
 isHTML = true
 mediaType = "text/html"
-path = "_print"
+path = "printview"
 permalinkable = false
